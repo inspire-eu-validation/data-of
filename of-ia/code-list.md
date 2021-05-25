@@ -13,10 +13,6 @@ This data theme currently has the following empty code list:
 * [BODC_P01ParameterUsageValue](#BODC_P01ParameterUsageValue): http://inspire.ec.europa.eu/codelist/BODC_P01ParameterUsageValue
 
 
-"BODC P01 Parameter Usage (BODC_P01ParameterUsageValue)
-http://vocab.nerc.ac.uk/collection/P01/current/ "
-
-
 **Reference(s)**: 
 
 * [TG DS Template](./README.md#ref_TG_DS_tmpl) IR requirement Article 6 (3)
