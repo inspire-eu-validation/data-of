@@ -9,7 +9,7 @@
 **Test method**
 
 * Validate each document against the latest INSPIRE official schema(s): https://inspire.ec.europa.eu/schemas/of/4.0/OceanFeatures.xsd, using strict XML schema validation.
-  Note: This test is added only as a placeholder since, at the moment, the related application schema is empty.
+  **Note**: Since, at the moment, the related application schema is empty and given that data related to the theme Oceanographic Geographical Features shall be made available using the feature types defined in the Specialised Observations application schema, documents related to this data theme shall validate against the following schema: https://inspire.ec.europa.eu/schemas/omso/3.0/SpecialisedObservations.xsd
 
 **Reference(s)**: 
 
